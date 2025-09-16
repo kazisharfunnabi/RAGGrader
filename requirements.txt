@@ -1,0 +1,10 @@
+streamlit 
+requests 
+fastapi 
+uvicorn 
+faiss-cpu 
+joblib 
+pandas 
+sentence-transformers 
+transformers 
+contractions
